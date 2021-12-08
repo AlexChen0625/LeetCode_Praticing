@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$USER_HOME$/LeetCode/src/algorithms/leetcode/editor/en/[39]CombinationSum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/algorithms/leetcode/editor/en/doc/content/[39]CombinationSum.md" />
+              <option name="path" value="$PROJECT_DIR$/src/algorithms/leetcode/editor/en/[39]CombinationSum.java" />
+              <option name="questionId" value="39" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/LeetCode/src/algorithms/leetcode/editor/en/[53]MaximumSubarray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/algorithms/leetcode/editor/en/doc/content/[53]MaximumSubarray.md" />
+              <option name="path" value="$PROJECT_DIR$/src/algorithms/leetcode/editor/en/[53]MaximumSubarray.java" />
+              <option name="questionId" value="53" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/algorithms/leetcode/editor/en/[39]CombinationSum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/algorithms/leetcode/editor/en/doc/content/[39]CombinationSum.md" />
+              <option name="path" value="$PROJECT_DIR$/src/algorithms/leetcode/editor/en/[39]CombinationSum.java" />
+              <option name="questionId" value="39" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/algorithms/leetcode/editor/en/[53]MaximumSubarray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/algorithms/leetcode/editor/en/doc/content/[53]MaximumSubarray.md" />
+              <option name="path" value="$PROJECT_DIR$/src/algorithms/leetcode/editor/en/[53]MaximumSubarray.java" />
+              <option name="questionId" value="53" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
