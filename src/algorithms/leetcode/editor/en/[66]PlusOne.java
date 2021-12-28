@@ -61,18 +61,17 @@ package algorithms.leetcode.editor.en;
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
 	public int[] plusOne(int[] digits) {
-		String all = "";
-		for (int i : digits) {
-			all.concat(String.valueOf(i));
+		int n = digits.length;
+		for (int i = digits.length - 1; i >= 0; --i) {
+			if (digits[i] < 9) {
+				++digits[i];
+				return digits;
+			}
+			digits[i] = 0;
 		}
-		String afterAdd = String.valueOf(Integer.parseInt(all) + 1);
-		String s = "appParam:{\"chkToken\":\"57efa28398834f3d80a34f9b70f3e83a\",\"deviceNo\":\"c45336cb-ce3c-4048-b414-7aefe782e478\",\"userId\":\"D100000068\"}";
-		int[] result = new int[afterAdd.length()];
-
-		for (int i = 0; i < afterAdd.length(); i++) {
-			result[i] = Integer.parseInt(afterAdd.substring(i, i + 1));
-		}
-		return result;
+		int[] res = new int[n + 1];
+		res[0] = 1;
+		return res;
 	}
 }
 //leetcode submit region end(Prohibit modification and deletion)
